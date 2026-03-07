@@ -5,13 +5,11 @@ body{
     flex-direction: column;
     justify-content: space-between;
     min-height: 100vh;
-      
 }
 
 
 .body{
     flex: 1;
-
 }
 
 .header, .footer{
@@ -93,7 +91,7 @@ ul, li{
 }
 
 .info{
-    gap: 30px;
+    gap: 50px;
 }
 
 .random-info{
@@ -122,7 +120,7 @@ ul, li{
 .square{
     height: 140px;
     width: 140px;
-    border: #3882F6 solid;
+    border: 3px solid #3882F6;
     border-radius: 10px;
     flex-shrink: 0;
 }
